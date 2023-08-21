@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Việt Anh",
+      "email": "vietanh123@gmail.com"
+    },
+    {
+      "email": "ducnguyen123@gmail.com",
+      "id": 3
+    },
+    {
+      "email": "khoinguyen123@gmail.com",
+      "id": 4
+    }
+  ]
+}
